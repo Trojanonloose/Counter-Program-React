@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/counter-program-react/static/css/main.84314216.css",
-    "main.js": "/counter-program-react/static/js/main.913e6431.js",
-    "index.html": "/counter-program-react/index.html",
-    "main.84314216.css.map": "/counter-program-react/static/css/main.84314216.css.map",
-    "main.913e6431.js.map": "/counter-program-react/static/js/main.913e6431.js.map"
+    "main.css": "/Counter-Program-React/static/css/main.84314216.css",
+    "main.js": "/Counter-Program-React/static/js/main.913e6431.js",
+    "index.html": "/Counter-Program-React/index.html",
+    "main.84314216.css.map": "/Counter-Program-React/static/css/main.84314216.css.map",
+    "main.913e6431.js.map": "/Counter-Program-React/static/js/main.913e6431.js.map"
   },
   "entrypoints": [
     "static/css/main.84314216.css",
